@@ -1,4 +1,5 @@
 # Role-Based Access Control (RBAC) System Documentation
+![Alt text](https://github.com/yahyamohmuedpro99/RBAC-System/blob/main/authRoles.png)
 
 ## Overview
 This document outlines the Role-Based Access Control (RBAC) system for a SaaS platform that enables workspace management with hierarchical permissions.
